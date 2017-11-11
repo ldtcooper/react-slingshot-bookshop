@@ -10,4 +10,4 @@ const About = () => {
   );
 };
 
-export const About;
+export default About;
